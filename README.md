@@ -1,3 +1,5 @@
+This projet aims to show multi-collisions mesh per link for concave geometry.
+
 - A static/base structural link representing the windmill tower.
 - A rotating rotor assembly representing the hub and four blades.
 - A continuous revolute joint mounted near the top of the tower that rotates the rotor assembly around the X-axis.
